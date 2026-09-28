@@ -1,0 +1,24 @@
+## 📊 Business Questions
+
+| #   | Business Question |
+|-----|-------------------|
+| Q01 | Display all athlete event records |
+| Q02 | Display all NOC region records |
+| Q03 | What is the total number of unique athletes who participated in the Olympics? |
+| Q04 | How many unique athletes participated in Summer and Winter Olympics? (`GROUP BY`) |
+| Q05 | How many unique athletes participated in Summer and Winter Olympics? (`FILTER`) |
+| Q06 | How many countries/regions participated in the Olympics? |
+| Q07 | What are all the unique NOC codes? |
+| Q08 | What are all the unique countries/regions? |
+| Q09 | How many Gold, Silver, Bronze, and total medals did each country win? |
+| Q10 | Which country and year combination won the highest number of medals? |
+| Q11 | In which sport did India win the highest number of medals? |
+| Q12 | Which athlete(s) won the maximum number of medals? |
+| Q13 | Who is the oldest athlete to win an Olympic medal? |
+| Q14 | Which sports were played in only one Olympic edition? |
+| Q15 | Which event was held in the maximum number of Olympic editions? |
+| Q16 | Which events were held in every Summer Olympics? |
+| Q17 | Which year had the minimum and maximum number of unique athletes? |
+| Q18 | What is the overall male-to-female athlete ratio? |
+| Q19 | What is the male-to-female athlete ratio for each region? |
+| Q20 | How many athlete-event records were recorded for each year and country? |
